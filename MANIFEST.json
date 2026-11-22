@@ -1,0 +1,66 @@
+{
+  "$comment": "Verbatim mirror. `md5` is as supplied by the source repository and is recorded for transport integrity only — it is not evidence of authenticity. Verify against `sha256`, which was computed locally from the downloaded bytes.",
+  "repo": "cs9-2025-spatial-transcriptome",
+  "title": "Human CS9 embryo — Stereo-seq and scRNA-seq processed data",
+  "doi": "10.5281/zenodo.14730926",
+  "licence": "CC BY 4.0",
+  "spdxLicenceId": "CC-BY-4.0",
+  "attribution": "Depositors of Zenodo record 14730926",
+  "citation": "10X scRNA-seq and Stereo-seq processed data for paper 'Spatial Transcriptomic 3D Reconstruction of the Human Embryo' (2025). Zenodo, doi:10.5281/zenodo.14730926.",
+  "modified": false,
+  "mirroredAt": "2026-11-22T01:12:39.921Z",
+  "sourceArticles": [
+    {
+      "id": 14730926,
+      "doi": "10.5281/zenodo.14730926",
+      "title": "10X scRNA-seq and Stereo-seq processed data for paper 'Spatial Transcriptomic 3D Reconstruction of the Body-Planning Human Embryo'",
+      "licenceAtMirrorTime": "CC BY 4.0"
+    }
+  ],
+  "files": [
+    {
+      "path": "data/cs9_scRNA_annotation.h5ad",
+      "originalName": "cs9_scRNA_annotation.h5ad",
+      "articleId": 14730926,
+      "size": 17964991,
+      "sha256": "59de122e52650370cd0cd26df10623fb2e72248e70d280db6324744fa29eac3c",
+      "md5": "55ed71c5e671916da384a62f5d98eefd",
+      "md5MatchedFigshare": true,
+      "releaseAsset": false,
+      "downloadUrl": "https://zenodo.org/api/records/14730926/files/cs9_scRNA_annotation.h5ad/content"
+    },
+    {
+      "path": "data/cs9_stereo_annotation.rds",
+      "originalName": "cs9_stereo_annotation.rds",
+      "articleId": 14730926,
+      "size": 770102268,
+      "sha256": "3d82fee03956e8c34a690b50a9d868a2929ebd7cc67192c520bc8995b3aea08e",
+      "md5": "b63bd1cc3ef12034abed736e564ba329",
+      "md5MatchedFigshare": true,
+      "releaseAsset": true,
+      "downloadUrl": "https://zenodo.org/api/records/14730926/files/cs9_stereo_annotation.rds/content"
+    },
+    {
+      "path": "data/cs9_scRNA_annotation.rds",
+      "originalName": "cs9_scRNA_annotation.rds",
+      "articleId": 14730926,
+      "size": 22092553,
+      "sha256": "ed68ab2f2a6a9f9ca7b97ebb5fbd42a12bf472f7f137c5693037b65329e903f5",
+      "md5": "116e28545f45169ef19b5c0e082c646d",
+      "md5MatchedFigshare": true,
+      "releaseAsset": false,
+      "downloadUrl": "https://zenodo.org/api/records/14730926/files/cs9_scRNA_annotation.rds/content"
+    },
+    {
+      "path": "data/cs9_stereo_annotation.h5ad",
+      "originalName": "cs9_stereo_annotation.h5ad",
+      "articleId": 14730926,
+      "size": 796914804,
+      "sha256": "1bc409b870cd80072ff0498ef96c449a88489f5e3fffa5233134700238a7fb40",
+      "md5": "00a06f32c5aeda9e28290d7f26551bfd",
+      "md5MatchedFigshare": true,
+      "releaseAsset": true,
+      "downloadUrl": "https://zenodo.org/api/records/14730926/files/cs9_stereo_annotation.h5ad/content"
+    }
+  ]
+}
